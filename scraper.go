@@ -10,8 +10,6 @@ import (
 	"strings"
 	"sync"
 	"time"
-
-	"github.com/bootdotdev/projects/posts/internal/database"
 	"github.com/google/uuid"
 )
 
